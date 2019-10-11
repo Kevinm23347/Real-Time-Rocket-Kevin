@@ -2,24 +2,24 @@ EAGLE AutoRouter Statistics:
 
 Job           : C:/Users/kevin/Documents/EAGLE/projects/Eclipse Transceiver Breakout Board/Transceiver schematic.brd
 
-Start at      : 23:45:32 (9/27/2019)
-End at        : 23:45:35 (9/27/2019)
-Elapsed time  : 00:00:00
+Start at      : 13:35:57 (10/2/2019)
+End at        : 13:36:00 (10/2/2019)
+Elapsed time  : 00:00:01
 
-Signals       :     6   RoutingGrid: 6 mil  Layers: 2
-Connections   :     8   predefined:  8 ( 1 Vias )
+Signals       :    14   RoutingGrid: 17 mil  Layers: 2
+Connections   :    18   predefined:  0 ( 0 Vias )
 
-Router memory :   289896
+Router memory :   63648
 
 Passname          : TopRouter     Route Optimize1 Optimize2 Optimize3 Optimize4
 
-Time per pass     :  00:00:00  00:00:00  00:00:00  00:00:00  00:00:00  00:00:00
-Number of Ripups  :         0         0         0         0         0         0
-max. Level        :         0         0         0         0         0         0
-max. Total        :         0         0         0         0         0         0
+Time per pass     :  00:00:00  00:00:00  00:00:00  00:00:00  00:00:00  00:00:01
+Number of Ripups  :         0         8         0         0         0         0
+max. Level        :         0         4         0         0         0         0
+max. Total        :         0         6         0         0         0         0
 
-Routed            :         0         0         0         0         0         0
-Vias              :         0         0         0         0         0         0
-Resolution        :   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %
+Routed            :         9        18        16        17        17        17
+Vias              :         0        11         9         7         7         7
+Resolution        :    50.0 %   100.0 %    88.9 %    94.4 %    94.4 %    94.4 %
 
 Final             : 
